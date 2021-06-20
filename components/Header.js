@@ -27,6 +27,7 @@ function Header() {
         src={huluicon}
         width={200}
         height={100}
+        alt="huluicon"
       />
     </header>
   );
